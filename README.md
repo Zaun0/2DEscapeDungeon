@@ -15,6 +15,13 @@ Escape Dungeon is a 2D platform game where players explore different levels, avo
 
 ---
 
+## 🎥 Gameplay Demo
+
+[▶️ Watch Gameplay Video]
+https://drive.google.com/file/d/1RjrNlv1W9OIeSUKvtqJ5OvCZXVBkMPWc/view?usp=sharing
+
+---
+
 ## Features
 
 - Character Movement
